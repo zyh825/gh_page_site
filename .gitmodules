@@ -1,0 +1,6 @@
+[submodule "source/_posts"]
+	path = source/_posts
+	url = git@github.com:zyh825/blogs.git
+[submodule "themes/next"]
+	path = themes/next
+	url = git@github.com:zyh825/hexo-theme-next.git
