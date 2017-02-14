@@ -4,11 +4,11 @@
 
 # Site
 title: Veda
-subtitle: 
-description:
+subtitle: A collection of my tranlation and a few of mind。
+description: Do you best, and God will do the lest.
 author: 张煜航
-language:
-timezone:
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
