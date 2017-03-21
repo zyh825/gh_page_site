@@ -70,3 +70,11 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:zyh825/zyh825.github.io.git
+
+# Third applications
+algolia:
+  applicationID: '45UGH4CJ52'
+  apiKey: 'c88fb708849de8d55c0523c1f9addc08'
+  adminApiKey: '66a82209a32c1fab484601d0ff2ec15d'
+  indexName: 'garannodou'
+  chunkSize: 5000
